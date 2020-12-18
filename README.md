@@ -9,23 +9,23 @@ Since 2008 I have always had a keen interest on technology, specifically compute
 const gio = {
   pronouns: "he" | "him",
   favourites: {
-                  food: "burgers",
-                  beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
-                  sport: ["rugby", "touch rugby"]
-              },
+      food: "burgers",
+      beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
+      sport: ["rugby", "touch rugby"]
+  },
   code: [HTML, CSS, JavaScript, Java, C, PHP],
   tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, PostgreSQL, Docker],
   toLearn: {
-                code: [TypeScript, Solidity, Rust],
-                tools: [GraphQL, Firebase],
-                stretch: [AWS, Go]
-            },
+      code: [TypeScript, Solidity, Rust],
+      tools: [GraphQL, Firebase],
+      stretch: [AWS, Go]
+  },
   deepDive: {
-                react: [ContextAPI, GatsbyJS],
-                code: [JavaScript, CSS],
-                tools: [Github-Actions, Docker],
-                general: ["data structures", "algorithms", "design patterns"]
-            },
+      react: [ContextAPI, GatsbyJS],
+      code: [JavaScript, CSS],
+      tools: [Github-Actions, Docker],
+      general: ["data structures", "algorithms", "design patterns"]
+  },
   challenge: "I am about to start a 30 day vanilla JavaScript coding challenge"
 }
 ```
