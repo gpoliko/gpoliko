@@ -19,6 +19,7 @@ const gio = {
                 code: [TypeScript, Solidity, Rust],
                 tools: [GraphQL, Firebase],
                 stretch: [AWS, Go]
+            },
   deepDive: {
                 react: [ContextAPI, GatsbyJS],
                 code: [TypeScript, Solidity, Rust, Go],
