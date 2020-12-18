@@ -15,6 +15,7 @@ const gio = {
   },
   code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
   tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, Docker],
+  architecture: ["REST", "component-based", "event-driven", "database-centric"],
   toLearn: {
       code: [TypeScript, Solidity, Rust],
       tools: [GraphQL, Firebase],
