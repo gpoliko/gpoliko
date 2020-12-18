@@ -13,8 +13,8 @@ const gio = {
       beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
       sport: ["rugby", "touch rugby"]
   },
-  code: [HTML, CSS, JavaScript, Java, C, PHP],
-  tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, PostgreSQL, Docker],
+  code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
+  tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, Docker],
   toLearn: {
       code: [TypeScript, Solidity, Rust],
       tools: [GraphQL, Firebase],
@@ -22,7 +22,7 @@ const gio = {
   },
   deepDive: {
       react: [ContextAPI, GatsbyJS],
-      code: [JavaScript, CSS],
+      code: [JavaScript, Styled-Components, CSS],
       tools: [Github-Actions, Docker],
       general: ["data structures", "algorithms", "design patterns"]
   },
