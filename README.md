@@ -26,7 +26,7 @@ const gio = {
 ```
 
 ### What am I up to? 👨‍💻
-Whether it's code or personal development, I enjoy learning and being curious. Currently I am working on personal projects which will consolidate my learning. I am also seeking work opportunities which that share my passion for social progress. Being a part of an organisation that encourages growth and values people who build products and services for people.
+Whether it's code or personal development, I enjoy learning and being curious. Currently I am working on personal projects which will consolidate my learning. I am also seeking work opportunities that share my passion for social progress. Being a part of an organisation that encourages growth and values people who build products and services for people.
 
 ### Let's chat
 I enjoy connecting with other people. If you do too, let's meet, have a coffee, beer (non-alcoholic for me), burger and have a chat!
