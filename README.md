@@ -19,8 +19,7 @@ const gio = {
   deepDive: {
                 react: [ContextAPI, GatsbyJS, NextJS, ReactNative],
                 languages: [TypeScript, Solidity, Rust, Go],
-                general: ["data structures", "algorithms", "design patterns"],
-                stretch: [Python, C#, C++, CommonLisp]
+                general: ["data structures", "algorithms", "design patterns"]
             },
   challenge: "I am about to start a 30 day vanilla JavaScript coding challenge"
 }
