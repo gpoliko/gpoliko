@@ -2,6 +2,8 @@
 
 I am a full-stack developer looking to collaborate on initiatives which contribute to social development, especially with under-privileged and minority groups.
 
+Since 2008 I have always had a keen interest on technology, specifically computer science and software development. I appreciate how we can use technology to create solutions to our own problems. As well as helping others leverage technology so they can be empowered to do the same. Just recently, I completed an intense full stack web development course. A course which not only focused on building technical aptitude, but also the value of working alongside other people.
+
 ### A bit about me... <img src="https://media.giphy.com/media/fZ91xzFtKWmoJSD4TK/giphy.gif" height="30px" />
 ```javascript
 const gio = {
@@ -28,4 +30,6 @@ const gio = {
 Whether it's code or personal development, I enjoy learning and being curious. Currently I am working on personal projects which will consolidate my learning. I am also seeking work opportunities which reflect my passion for social progress. Being a part of an organisation that values people who build products and services for people.
 
 ### Let's chat
+I enjoy connecting with other people. If you do too, let's meet, have a coffee, beer (non-alcoholic for me), burger and have a chat!
+<br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannipoliko/)](https://www.linkedin.com/in/giovannipoliko/)
