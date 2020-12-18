@@ -22,7 +22,7 @@ const gio = {
             },
   deepDive: {
                 react: [ContextAPI, GatsbyJS],
-                code: [TypeScript, Solidity, Rust, Go],
+                code: [JavaScript, CSS],
                 tools: [Github-Actions, Docker],
                 general: ["data structures", "algorithms", "design patterns"]
             },
