@@ -2,7 +2,7 @@
 
 I am a full-stack developer looking to collaborate on initiatives which contribute to social development, especially with under-privileged and minority groups.
 
-Since 2008 I have always had a keen interest on technology, specifically computer science and software development. I appreciate how we can use technology to create solutions to our own problems. As well as helping others leverage technology so they can be empowered to do the same. Just recently, I completed an intense full stack web development course. A course which not only focused on building technical aptitude, but also the value of working alongside other people.
+Since 2008 I have always had a keen interest on technology, specifically computer science and software development. I appreciate how we can use technology to create solutions to our own problems. As well as helping others leverage technology so they can be empowered to do the same. Just recently, I completed an intense full stack web development course. A course which not only focused on building technical proficiency, but also the value of working alongside other people.
 
 ### A bit about me... <img src="https://media.giphy.com/media/fZ91xzFtKWmoJSD4TK/giphy.gif" height="30px" />
 ```javascript
