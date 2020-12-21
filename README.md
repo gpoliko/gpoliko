@@ -17,9 +17,9 @@ const gio = {
   tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, Docker],
   architecture: ["REST", "component-based", "event-driven", "database-centric"],
   toLearn: {
-      code: [TypeScript, Solidity, Rust],
+      code: [TypeScript, Solidity, Rust, Python, C#],
       tools: [GraphQL, Firebase],
-      stretch: [AWS, Go]
+      stretch: [AWS, ASP.NET, Go]
   },
   deepDive: {
       react: [ContextAPI, GatsbyJS],
