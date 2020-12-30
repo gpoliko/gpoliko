@@ -14,7 +14,7 @@ const gio = {
       sport: ["rugby", "touch rugby"]
   },
   code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
-  tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, Docker, CircleCI, CodeCov],
+  tools: [Express, React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI],
   architecture: ["REST", "component-based", "event-driven", "database-centric"],
   toLearn: {
       code: [TypeScript, Solidity, Rust, Python, C#],
@@ -23,8 +23,8 @@ const gio = {
   },
   deepDive: {
       react: [ContextAPI, GatsbyJS],
-      code: [JavaScript, Styled-Components, CSS],
-      tools: [Github-Actions, Docker],
+      code: [JavaScript, CSS],
+      tools: [CicleCI, Styled-Components],
       general: ["data structures", "algorithms", "design patterns"]
   },
   challenge: "I am about to start a 30 day vanilla JavaScript coding challenge"
