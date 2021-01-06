@@ -14,12 +14,12 @@ const gio = {
       sport: ["rugby", "touch rugby"]
   },
   code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
-  tools: [Express, React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
+  tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
   toLearn: {
       code: [TypeScript, C#],
       tools: [GraphQL],
-      stretch: [AWS, ASP.NET, Go]
+      stretch: [ASP.NET, Go]
   },
   deepDive: {
       react: [ContextAPI, GatsbyJS, Redux],
