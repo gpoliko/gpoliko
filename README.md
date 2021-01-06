@@ -14,17 +14,17 @@ const gio = {
       sport: ["rugby", "touch rugby"]
   },
   code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
-  tools: [Express, React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI],
+  tools: [Express, React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
   toLearn: {
-      code: [TypeScript, Python, Solidity, Rust, C#],
-      tools: [GraphQL, Firebase],
+      code: [TypeScript, C#],
+      tools: [GraphQL],
       stretch: [AWS, ASP.NET, Go]
   },
   deepDive: {
-      react: [ContextAPI, GatsbyJS],
+      react: [ContextAPI, GatsbyJS, Redux],
       code: [JavaScript, CSS],
-      tools: [CicleCI, Styled-Components],
+      tools: [Github-Actions, CicleCI, Styled-Components],
       general: ["data structures", "algorithms", "design patterns"]
   },
   challenge: "I am about to start a 30 day vanilla JavaScript coding challenge"
