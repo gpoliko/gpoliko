@@ -11,20 +11,20 @@ const gio = {
   favourites: {
       food: "burgers",
       beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
-      sport: ["rugby", "touch rugby"]
+      hobbies: ["rugby", "touch rugby"]
   },
   code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
   tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
   toLearn: {
       code: [TypeScript, C#],
-      tools: [GraphQL],
+      tools: [Jenkins, Kubernetes],
       stretch: [ASP.NET, Go]
   },
   deepDive: {
       react: [ContextAPI, GatsbyJS, Redux],
       code: [JavaScript, CSS],
-      tools: [Github-Actions, CicleCI, Styled-Components],
+      tools: [Github-Actions, Docker],
       general: ["data structures", "algorithms", "design patterns"]
   },
   challenge: "I am about to start a 30 day vanilla JavaScript coding challenge"
