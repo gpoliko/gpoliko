@@ -18,11 +18,11 @@ const gio = {
   architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
   toLearn: {
       code: [TypeScript, C#],
-      tools: [Jenkins, Kubernetes],
-      stretch: [ASP.NET, Go]
+      tools: [Jenkins, Kubernetes, ASP.NET],
+      stretch: [Go, GatsbyJS]
   },
   deepDive: {
-      react: [ContextAPI, GatsbyJS, Redux],
+      react: [ContextAPI, Redux],
       code: [JavaScript, CSS],
       tools: [Github-Actions, Docker],
       general: ["data structures", "algorithms", "design patterns"]
