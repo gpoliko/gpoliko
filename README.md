@@ -17,13 +17,13 @@ const gio = {
   tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
   toLearn: {
-      code: [TypeScript, C#],
-      tools: [Jenkins, Kubernetes, ASP.NET],
-      stretch: [Go, GatsbyJS]
+      code: [C#, TypeScript],
+      tools: [ASP.NET, Jenkins, Kubernetes],
+      stretch: [GatsbyJS, AWS]
   },
   deepDive: {
       react: [ContextAPI, Redux],
-      code: [JavaScript, CSS],
+      code: [JavaScript, SCSS],
       tools: [Github-Actions, Docker],
       general: ["data structures", "algorithms", "design patterns"]
   },
