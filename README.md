@@ -17,7 +17,7 @@ const gio = {
   tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
   toLearn: {
-      code: [C#, TypeScript],
+      code: [C#, TypeScript, Rust],
       tools: [ASP.NET, Jenkins, Kubernetes],
       stretch: [GatsbyJS, AWS]
   },
