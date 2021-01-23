@@ -11,7 +11,7 @@ const gio = {
   favourites: {
       food: "burgers",
       beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
-      hobbies: ["rugby", "touch rugby"]
+      hobbies: ["rugby", "touch rugby", "board games", "reading"]
   },
   code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
   tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
