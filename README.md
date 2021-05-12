@@ -23,7 +23,7 @@ const gio = {
       tools: [Github-Actions, Docker],
       general: ["data structures", "algorithms", "design patterns"]
   },
-  challenge: "I am currently carrying out a 30 day vanilla JavaScript coding challenge"
+  challenge: Coming soon...
 }
 ```
 
