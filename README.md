@@ -17,7 +17,7 @@ const gio = {
       tools: [WebdriverIO, Jenkins, AWS],
       stretch: [Azure]
   },
-  challenge: Coming soon...
+  challenge: "Coming soon..."
 }
 ```
 
