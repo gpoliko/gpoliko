@@ -9,19 +9,13 @@ const gio = {
       beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
       hobbies: ["rugby", "touch rugby", "board games", "reading"]
   },
-  code: [HTML, CSS, JavaScript, Java, C, PLSQL, PHP],
-  tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
+  code: [HTML, CSS, JavaScript, Java, C#, C, PLSQL, PHP],
+  tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod, Selenium],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
-  toLearn: {
-      code: [C#, TypeScript, Rust],
-      tools: [ASP.NET, Jenkins, Kubernetes],
+  learning: {
+      code: [TypeScript, Rust],
+      tools: [WebdriverIO, Jenkins, AWS],
       stretch: [GatsbyJS, AWS]
-  },
-  deepDive: {
-      react: [ContextAPI, Redux],
-      code: [JavaScript, SCSS],
-      tools: [Github-Actions, Docker],
-      general: ["data structures", "algorithms", "design patterns"]
   },
   challenge: Coming soon...
 }
