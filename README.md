@@ -15,7 +15,7 @@ const gio = {
   learning: {
       code: [TypeScript, Rust],
       tools: [WebdriverIO, Jenkins, AWS],
-      stretch: [GatsbyJS, AWS]
+      stretch: [Azure]
   },
   challenge: Coming soon...
 }
