@@ -7,17 +7,17 @@ const gio = {
   favourites: {
       food: "burgers",
       beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
-      hobbies: ["rugby", "touch rugby", "board games", "reading"]
+      hobbies: ["rugby", "brazilian jiujitsu", "board games", ""]
   },
-  code: [HTML, CSS, JavaScript/TypeScript, Java, C#, C, PLSQL, PHP],
-  tools: [React, Redux, Node, Styled-Components, Material UI, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
-  testing: [Jest, Puppeteer, Playwright, Selenium],
+  code: ["HTML", "CSS", "JavaScript/TypeScript", "Java", "C", "C#", "PLSQL", "PHP"],
+  tools: ["React", "Redux", "Node", "Angular", "Styled-Components", "Material UI", "Github-Actions", "MySQL", "PostgreSQL", "CircleCI"],
+  testing: ["Jest", "Puppeteer", "Playwright", "Selenium"],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "microservices", "blockchain"],
   learning: {
-      code: [Rust, TailwindCSS],
-      tools: [Angular, Jenkins],
-      testing: [Protractor],
-      stretch: [AWS, Azure]
+      code: ["Rust", "TailwindCSS"],
+      tools: ["Angular", "Jenkins"],
+      testing: ["Protractor"],
+      stretch: ["AWS Services", "Azure Services"]
   },
   challenge: "Coming soon..."
 }
