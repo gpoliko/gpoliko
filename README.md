@@ -9,13 +9,15 @@ const gio = {
       beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
       hobbies: ["rugby", "touch rugby", "board games", "reading"]
   },
-  code: [HTML, CSS, JavaScript, Java, C#, C, PLSQL, PHP],
-  tools: [React, Redux, Node, Styled-Components, Jest, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod, Selenium],
-  architecture: ["REST", "component-based", "event-driven", "database-centric", "blockchain"],
+  code: [HTML, CSS, JavaScript/TypeScript, Java, C#, C, PLSQL, PHP],
+  tools: [React, Redux, Node, Styled-Components, Material UI, Github-Actions, MySQL, PostgreSQL, CircleCI, Gitpod],
+  testing: [Jest, Puppeteer, Playwright, Selenium],
+  architecture: ["REST", "component-based", "event-driven", "database-centric", "microservices", "blockchain"],
   learning: {
-      code: [TypeScript, Rust],
-      tools: [WebdriverIO, Jenkins, AWS],
-      stretch: [Azure]
+      code: [Rust, TailwindCSS],
+      tools: [Angular, Jenkins],
+      testing: [Protractor],
+      stretch: [AWS, Azure]
   },
   challenge: "Coming soon..."
 }
