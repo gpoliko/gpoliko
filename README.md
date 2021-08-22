@@ -13,9 +13,10 @@ const gio = {
   tools: ["React", "Redux", "Node", "Angular", "Styled-Components", "Material UI", "Github-Actions", "MySQL", "PostgreSQL", "CircleCI"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium"],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "microservices", "blockchain"],
-  learning: {
+  deepDives: ["Angular", "TypeScript", "Data Structures and Algorithms"],
+  toLearn: {
       code: ["Rust", "TailwindCSS"],
-      tools: ["Angular", "Jenkins"],
+      tools: ["Jenkins"],
       testing: ["Protractor"],
       stretch: ["AWS Services", "Azure Services"]
   },
