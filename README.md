@@ -17,7 +17,7 @@ const gio = {
   toLearn: {
       code: ["Rust", "TailwindCSS"],
       tools: ["Jenkins"],
-      testing: ["Protractor"],
+      testing: ["Cypress"],
       stretch: ["AWS Services", "Azure Services"]
   },
   challenge: "Coming soon..."
