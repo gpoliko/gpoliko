@@ -10,10 +10,10 @@ const gio = {
       hobbies: ["rugby", "Brazilian jiujitsu", "board games", "watch collecting"]
   },
   code: ["HTML", "CSS", "JavaScript/TypeScript", "Java", "C", "C#", "PLSQL", "PHP"],
-  tools: ["React", "Redux", "Node", "Angular", "Styled-Components", "Material UI", "Github-Actions", "Docker", "MySQL", "PostgreSQL", "CircleCI"],
+  tools: ["React", "Redux", "Node", "Angular", "Styled-Components", "Material UI", "Github-Actions", "Docker", "MySQL", "PostgreSQL", "CircleCI", "Jenkins"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium"],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "microservices", "blockchain"],
-  deepDives: ["Angular", "TypeScript", "Data Structures and Algorithms"],
+  deepDives: ["TypeScript", "GraphQL", "Data Structures and Algorithms"],
   toLearn: {
       code: ["Rust", "TailwindCSS"],
       tools: ["Jenkins"],
