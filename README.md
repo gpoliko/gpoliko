@@ -20,7 +20,7 @@ const gio = {
       testing: ["Cypress"],
       stretch: ["AWS Services", "Azure Services"]
   },
-  challenge: "I want to have the capacity to build a parachain/parathread, learn Rust, and learn more about Substrate and Polkadot development."
+  challenge: "Build the capacity to develop services for Substrate and Polkadot, learn Rust and Deno"
 }
 ```
 
