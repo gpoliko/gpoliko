@@ -31,3 +31,6 @@ Whether it's code or personal development, I enjoy learning and being curious. C
 I enjoy connecting with other people an expanding my network of learning. If you do too, let's catch up and have a chat!
 <br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannipoliko/)](https://www.linkedin.com/in/giovannipoliko/)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=gpoliko&count_private=true&show_icons=true&theme=vue-dark)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=gpoliko&theme=vue-dark)
