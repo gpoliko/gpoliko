@@ -11,7 +11,7 @@ const gio = {
   },
   code: ["HTML", "CSS", "TypeScript", "Java", "C", "C#", "PHP"],
   tools: ["React", "Redux", "Node", "Angular", "Github-Actions", "Docker", "PostgreSQL", "CircleCI", "Jenkins"],
-  testing: ["Jest", "Puppeteer", "Playwright", "Selenium"],
+  testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Postman"],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "microservices", "blockchain"],
   deepDives: ["TypeScript", "GraphQL", "Data Structures and Algorithms"],
   toLearn: {
