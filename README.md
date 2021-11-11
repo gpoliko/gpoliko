@@ -10,18 +10,16 @@ const gio = {
       beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
       hobbies: ["rugby", "Brazilian jiujitsu", "board games", "watch collecting"]
   },
-  code: ["HTML", "CSS", "TypeScript", "Java", "C", "C#", "PHP"],
+  code: ["HTML", "CSS", "TypeScript", "Java", "C", "C#"],
   tools: ["React", "Redux", "Node", "Angular", "Github-Actions", "Docker", "PostgreSQL", "CircleCI", "Jenkins"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Postman"],
   architecture: ["REST", "component-based", "event-driven", "database-centric", "microservices", "blockchain"],
   deepDives: ["TypeScript", "GraphQL", "Data Structures and Algorithms"],
   toLearn: {
       code: ["Rust", "TailwindCSS"],
-      tools: ["NextJS"],
-      testing: ["Cypress"],
       stretch: ["AWS Services", "Azure Services"]
   },
-  challenge: "Build the capacity to develop services for Substrate and Polkadot, learn Rust and Deno"
+  challenge: "Build a capacity for Substrate and Polkadot development, learn Rust and Deno"
 }
 ```
 
