@@ -8,19 +8,19 @@
 const gio = {
   pronouns: "he" | "him",
   favourites: {
-      food: "burgers",
-      beverages: ["ginger beer", "nippys", "powerade", "yerba mate"],
+      food: "BBQ"
+      beverages: ["ginger beer", "nippys", "powerade"],
       hobbies: ["rugby", "Brazilian jiujitsu", "board games", "watch collecting"]
   },
   code: ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "C"],
-  tools: ["React", "Redux", "Node", "Angular", "Github-Actions", "Docker", "CircleCI", "Jenkins", "MongoDB"],
+  tools: ["React", "Redux", "Node", "Github-Actions", "Docker", "CircleCI", "Jenkins", "MongoDB"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Postman"],
-  architecture: ["REST", "component-based", "microservices", "blockchain"],
+  architecture: ["REST", "component-based", "microservices"],
   deepDives: ["TypeScript", "Redux Toolkit", "Data Structures and Algorithms"],
   toLearn: {
       code: ["Rust", "AWS Cloud Services"]
   },
-  challenge: "Build a capacity for Substrate and Polkadot development, learn Rust and Deno"
+  challenge: "Build a capacity for Substrate development, and learn Rust"
 }
 ```
 
