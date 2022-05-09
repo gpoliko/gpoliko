@@ -16,7 +16,7 @@ const gio = {
   tools: ["React", "Redux", "Node", "Github-Actions", "Docker", "CircleCI", "Jenkins", "MongoDB"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Postman"],
   architecture: ["REST", "component-based", "microservices"],
-  deepDives: ["TypeScript", "Redux Toolkit", "Data Structures and Algorithms"],
+  deepDives: ["Solidity", "Rust"],
   toLearn: {
       code: ["Rust", "AWS Cloud Services"]
   },
@@ -26,12 +26,12 @@ const gio = {
 
 </details>
 
-<!-- ### What am I up to? 👨‍💻
-Whether it's code or personal development, I enjoy learning and being curious. Currently I am working as a Software Engineer with Solta Labs.
+### What am I up to? 👨‍💻
+Whether it's code or personal development, I enjoy learning and being curious. Currently I am taking a deep dive into the Solidity programming language for smart contract development and incorporating that into my full stack toolkit.
 
 ### Let's chat
 I enjoy connecting with other people an expanding my network of learning. If you do too, let's catch up!
-<br/><br/> -->
+<br/><br/>
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=gpoliko&count_private=true&show_icons=true&theme=vue-dark)
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=gpoliko&theme=vue-dark) -->
