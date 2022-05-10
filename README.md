@@ -18,9 +18,9 @@ const gio = {
   architecture: ["REST", "component-based", "microservices"],
   deepDives: ["Solidity", "Rust"],
   toLearn: {
-      code: ["Rust", "AWS Cloud Services"]
+      code: ["AWS Cloud Services"]
   },
-  challenge: "Build a capacity for Substrate development, and learn Rust"
+  challenge: "Build the capacity for Substrate development, and learn Rust"
 }
 ```
 
