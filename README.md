@@ -16,9 +16,9 @@ const gio = {
   tools: ["React", "Redux", "Node", "Github-Actions", "Docker", "CircleCI", "Jenkins", "MongoDB"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Postman"],
   architecture: ["REST", "component-based", "microservices"],
-  deepDives: ["Solidity", "Rust"],
+  deepDives: ["Solidity", "Nix/NixOS"],
   toLearn: {
-      code: ["AWS Cloud Services"]
+      code: ["Rust", "AWS Cloud Services"]
   },
   challenge: "Build the capacity for Substrate development, and learn Rust"
 }
