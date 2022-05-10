@@ -30,7 +30,7 @@ const gio = {
 Whether it's code or personal development, I enjoy learning and being curious. Currently I am taking a deep dive into the Solidity programming language for smart contract development and incorporating that into my full stack toolkit.
 
 ### Let's chat
-I enjoy connecting with other people an expanding my network of learning. If you do too, let's catch up!
+I enjoy connecting with other people and expanding my network of learning. If you do too, let's catch up!
 <br/><br/>
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=gpoliko&count_private=true&show_icons=true&theme=vue-dark)
