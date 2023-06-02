@@ -3,6 +3,7 @@
 
 <details>
 <summary>Expand: A bit about me... <img src="https://media.giphy.com/media/fZ91xzFtKWmoJSD4TK/giphy.gif" height="30px" /></summary>
+  
 ```javascript
 const gio = {
   code: ["HTML", "CSS", "TypeScript", "Solidity", "Java", "C", "Python", "Rust"],
@@ -13,11 +14,15 @@ const gio = {
   currentChallenge: "Building a blockchain agnostic NFT generator and minter in Rust"
 }
 ```
+  
 </details>
+
 ## What am I up to? 👨‍💻
 Whether it's code or personal development, I'm obsessed with learning. Currently I am building a children's story creator that'll generate the story, images, and audio using the OpenAI API.
+
 ## Let's chat
 I'm open to job opportunities starting in July/August this year.
+
 <br/><br/>
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=gpoliko&count_private=true&show_icons=true&theme=vue-dark)
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=gpoliko&theme=vue-dark) -->
