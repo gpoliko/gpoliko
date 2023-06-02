@@ -18,7 +18,7 @@ const gio = {
 </details>
 
 ## What am I up to? 👨‍💻
-Whether it's code or personal development, I'm obsessed with learning. Currently I am building a children's story creator that'll generate the story, images, and audio using the OpenAI API.
+Whether it's code or personal development, I'm obsessed with learning. Currently I am building a children's story generator that'll generate the story, images, and audio using the OpenAI API.
 
 ## Let's chat
 I'm open to job opportunities starting in July/August this year.
