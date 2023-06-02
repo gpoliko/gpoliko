@@ -1,4 +1,4 @@
-## Hi, I'm Giovanni (Gio) Poliko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+# Hi, I'm Giovanni (Gio) Poliko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giovannipoliko/)
 
 <details>
@@ -14,9 +14,9 @@ const gio = {
 }
 ```
 </details>
-### What am I up to? 👨‍💻
+## What am I up to? 👨‍💻
 Whether it's code or personal development, I'm obsessed with learning. Currently I am building a children's story creator that'll generate the story, images, and audio using the OpenAI API.
-### Let's chat
+## Let's chat
 I'm open to job opportunities starting in July/August this year.
 <br/><br/>
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=gpoliko&count_private=true&show_icons=true&theme=vue-dark)
