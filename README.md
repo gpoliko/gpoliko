@@ -11,7 +11,7 @@ const gio = {
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Insomnia"],
   architecture: ["REST", "component-based", "microservices", "event-driven", "blockchain"],
   deepDives: ["Rust", "Nx", "AWS Cloud Services"],
-  currentChallenge: "Building a blockchain agnostic NFT generator and minter in Rust"
+  currentChallenge: "Building a blockchain agnostic, digital asset generator and minter in Rust"
 }
 ```
   
