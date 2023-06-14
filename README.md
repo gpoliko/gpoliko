@@ -6,10 +6,10 @@
   
 ```javascript
 const gio = {
-  code: ["HTML", "CSS", "JavaScript", "TypeScript", "Solidity", "Java", "C", "Python", "Rust"],
+  code: ["JavaScript", "TypeScript", "Solidity", "Java", "Rust", "Python", "C"],
   toolsAndFrameworks: ["React/NextJS", "Redux Toolkit", "NestJS", "NodeJS", "PostgreSQL", "MongoDB"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Insomnia"],
-  architecture: ["REST", "component-based", "microservices", "event-driven", "blockchain"],
+  architecture: ["REST", "component-based", "microservices", "event-driven", "serverless", "blockchain"],
   deepDives: ["Rust", "Nx", "AWS Cloud Services"],
   currentChallenge: "Building a blockchain agnostic, digital asset generator and minter in Rust"
 }
