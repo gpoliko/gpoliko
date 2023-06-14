@@ -10,7 +10,7 @@ const gio = {
   toolsAndFrameworks: ["React/NextJS", "Redux Toolkit", "NestJS", "NodeJS", "PostgreSQL", "MongoDB"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Insomnia"],
   architecture: ["REST", "component-based", "microservices", "event-driven", "serverless", "blockchain"],
-  deepDives: ["Rust", "Nx", "AWS Cloud Services"],
+  deepDives: ["Nx", "AWS Cloud Services"],
   currentChallenge: "Building a blockchain agnostic, digital asset generator and minter in Rust"
 }
 ```
