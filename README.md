@@ -7,7 +7,7 @@
 ```javascript
 const gio = {
   code: ["JavaScript", "TypeScript", "Solidity", "Java", "Rust", "Python", "C"],
-  toolsAndFrameworks: ["React/NextJS", "Redux Toolkit", "NestJS", "NodeJS", "PostgreSQL", "MongoDB"],
+  toolsAndFrameworks: ["NodeJS", "React/NextJS", "Redux", "NestJS", "Prisma", "Hardhat"],
   testing: ["Jest", "Puppeteer", "Playwright", "Selenium", "Insomnia"],
   architecture: ["REST", "component-based", "microservices", "event-driven", "serverless", "blockchain"],
   deepDives: ["Nx", "AWS Cloud Services"],
