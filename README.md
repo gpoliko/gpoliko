@@ -19,7 +19,7 @@ const gio = {
 
 ## What am I up to? 👨‍💻
 Whether it's code or personal development, I'm obsessed with learning.
-Currently I am building a full stack crowd funding DApp, and a children's story generator using the OpenAI API.
+Currently, I am working on a full-stack crowdfunding DApp.
 
 ## Let's chat
 I'm open to job opportunities starting in July/August this year.
