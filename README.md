@@ -19,10 +19,7 @@ const gio = {
 
 ## What am I up to? 👨‍💻
 Whether it's code or personal development, I'm obsessed with learning.
-Currently, I am working on a full-stack crowdfunding DApp.
-
-## Let's chat
-I'm open to job opportunities starting in July/August this year.
+Currently, I am working on a full-stack, nextjs + nestjs personal project.
 
 <br/><br/>
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=gpoliko&count_private=true&show_icons=true&theme=vue-dark)
